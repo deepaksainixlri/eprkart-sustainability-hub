@@ -70,8 +70,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-bold text-foreground mb-1">Email Us</h3>
+                    <p className="text-muted-foreground">paryasam.consultant@gmail.com</p>
                     <p className="text-muted-foreground">info@eprkart.com</p>
-                    <p className="text-muted-foreground">support@eprkart.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -85,7 +85,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-bold text-foreground mb-1">Call Us</h3>
-                    <p className="text-muted-foreground">+91 XXX XXX XXXX</p>
+                    <p className="text-muted-foreground">+91 6363992620</p>
                     <p className="text-sm text-muted-foreground">Mon-Fri: 9:00 AM - 6:00 PM IST</p>
                   </div>
                 </div>
